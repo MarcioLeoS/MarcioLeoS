@@ -15,6 +15,8 @@
 
 I am a software developer with three years of professional experience and currently a computer engineering student at the start of my degree. I am currently working in both front-end and back-end development at a company that builds systems for large industries. I’m passionate about learning and enjoy creating innovative, efficient, and impactful solutions.
 
+
+
 - ✔ Ask me about anything, I am happy to help<br>
 - 📫 Reach out to me at: <a href="mailto:marciolsanchez@gmail.com">marciolsanchez@gmail.com</a>
 
