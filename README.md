@@ -69,10 +69,8 @@ I am a software developer with three years of professional experience and curren
   <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black">
 </div>
 
----
 
-## 🔥 Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarcioLeoS&theme=algolia" alt="marcioleos" />
-</p>
+
+
+
