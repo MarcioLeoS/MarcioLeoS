@@ -52,6 +52,7 @@ I am a software developer with three years of professional experience and curren
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-4FC08D.svg?style=for-the-badge&logo=mongodb&logoColor=white">
 </div>
 
 ### Cloud Hosting
