@@ -55,8 +55,11 @@ I am a software developer with three years of professional experience and curren
   <img src="https://img.shields.io/badge/MongoDB-4FC08D.svg?style=for-the-badge&logo=mongodb&logoColor=white">
 </div>
 
-### Cloud Hosting
+### Hosting and CloudHosting
 <div align="left">
+  <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" alt="cPanel Badge">
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify Badge">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel Badge">
   <img src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/AWS-FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
 </div>
