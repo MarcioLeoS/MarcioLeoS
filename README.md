@@ -11,7 +11,7 @@
 	<!--<img style="margin-top:20px" align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" /> -->
 </div>
 
-### <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About Me***
+### ***About Me***
 
 I am a software developer with three years of professional experience and currently a computer engineering student at the start of my degree. I am currently working in both front-end and back-end development at a company that builds systems for large industries. I’m passionate about learning and enjoy creating innovative, efficient, and impactful solutions.
 
