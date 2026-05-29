@@ -13,7 +13,7 @@
 
 ### ***About Me***
 
-I am a software developer with three years of professional experience and currently a computer engineering student at the start of my degree. I am currently working in both front-end and back-end development at a company that builds systems for large industries. I’m passionate about learning and enjoy creating innovative, efficient, and impactful solutions.
+I am a senior software developer with three years of professional experience and currently a computer engineering student at the start of my degree. I am currently working in both front-end and back-end development at a company that builds systems for large industries. I’m passionate about learning and enjoy creating innovative, efficient, and impactful solutions.
 
 <br>
 <br>
