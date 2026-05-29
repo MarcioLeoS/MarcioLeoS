@@ -41,7 +41,6 @@ I am a software developer with three years of professional experience and curren
   <img src="https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Vue-4FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white">
   <img src="https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white">
-  <img src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/Express.js-404d59.svg?style=for-the-badge">
 
 
